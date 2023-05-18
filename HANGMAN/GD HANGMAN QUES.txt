@@ -1,0 +1,68 @@
+CREATE A HANGMAN GAME
+CONSTRAIN-ONLY VOWELS OF THE WORD SHOULD BE VISIBLE
+
+
+
+
+
+ASCII ART--
+[''' 
+               +---+ 
+               |   |  
+               0   | 
+                   |
+                   |
+                   |
+             =========''',
+             '''
+               +---+ 
+               |   |  
+               0   | 
+               |   |
+                   |
+                   |
+             =========''',
+             '''
+               +---+ 
+               |   |  
+               0   | 
+              /|   |
+                   |
+                   |
+             =========''',
+             '''
+               +---+ 
+               |   |  
+               0   | 
+              /|\  |
+                   |
+                   |
+             =========''',
+             '''
+               +---+ 
+               |   |  
+               0   | 
+              /|\  |
+                   |
+                   |
+             =========''',
+             '''
+               +---+ 
+               |   |  
+               0   | 
+              /|\  |
+              /    |
+                   |
+             =========''',
+             '''
+               +---+ 
+               |   |  
+               0   | 
+              /|\  |
+              / \  |
+                   |
+             =========''']
+
+list of word-ACTIONSCRIPT,AUTOHOTKEY,BABBAGE,BOOMERANG,COMTRAN,COBOL,CRYSTAL,DARWIN,EUPHORIA,
+	     EUPHORIA,GRASSHOPER,JAVASCRIPT,KOTLIN,MIRANDA,PYTHON,REDCODE,RUST,SCALA
+	     
